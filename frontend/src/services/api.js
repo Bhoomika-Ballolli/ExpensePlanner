@@ -7,7 +7,7 @@
  * to read, debug, and explain in an interview.
  */
 
-const BASE_URL = "http://localhost:5000/api";
+const BASE_URL = "https://expenseplanner.onrender.com/api";
 
 /**
  * Generic helper that wraps fetch() with consistent error handling.
